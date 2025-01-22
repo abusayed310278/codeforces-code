@@ -12,7 +12,7 @@
 using namespace std;
 
 
-
+//https://codeforces.com/problemset/problem/630/A
 
 
 const int mod = 1e9 + 7;
